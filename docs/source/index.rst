@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Casinomcw | Link Truy Cập Casino Số #1 Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Casinomcw <https://casinomcw.one/>`_ hay MCW, là trang cá cược trực tuyến hàng đầu, cung cấp đa dạng trò chơi như đá gà, sòng bài, thể thao... Casinomcw được thành lập từ năm 2015 và có trụ sở chính tại Philippines, với giấy phép kinh doanh hợp pháp từ Gaming Curacao, casinomcw hoạt động mạnh mẽ tại thị trường Châu Á và khu vực Thái Bình Dương.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://casinomcw.one/
 
-   This project is under active development.
+Địa chỉ: Cửa khẩu Quốc tế Bavet tại thị xã Bavet, tỉnh Svay Rieng, Campuchia
 
-Contents
---------
+Phone: 0855 71 242 7533
 
-.. toctree::
+Email: casinomcwone@gmail.com
 
-   usage
-   api
+#casinomcw #mcwcasino #casinomcwone
